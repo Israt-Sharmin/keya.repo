@@ -1,0 +1,19 @@
+Download awscli64.msi
+Install and open it
+open cygwin
+put aws configure
+aws access key id 
+aws secret access key
+default region name us-west-2
+default output format [None]: json
+aws s3 ls      [ to connect aws bucket ]
+ls -la
+aws iam ls
+aws s3 help
+aws s3 zia
+aws iam list-mfa-devices
+aws iam list-virtual-mfa-devices
+aws ec2 describe-tags
+aws ec2
+aws ec2 describe-instances
+aws ec2 describe-instances | grep running
